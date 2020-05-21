@@ -22,6 +22,7 @@ extension LSQTypeWrapperProtocol where LSQWrappedType == UIView {
     public func orange() {
         wrappedValue.self.backgroundColor = UIColor.orange
     }
+    
 }
 
 extension UIView {
